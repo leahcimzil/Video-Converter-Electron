@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii.git"
+    "url": "https://github.com/leahcimzil/Video-Converter-Electron.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii/issues"
+    "url": "https://github.com/leahcimzil/Video-Converter-Electron/issues"
   },
-  "homepage": "https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii#readme",
+  "homepage": "https://github.com/leahcimzil/Video-Converter-Electron#readme",
   "dependencies": {
     "electron": "^17.0.1",
     "electron-progressbar": "^2.0.1",
