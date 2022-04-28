@@ -1,0 +1,28 @@
+{
+  "name": "assignment-electron-leahcimzii",
+  "version": "1.0.0",
+  "description": "<img width=\"150px\" src=\"https://w0244079.github.io/nscc/nscc-jpeg.jpg\" >",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii/issues"
+  },
+  "homepage": "https://github.com/NSCC-Winter2022-APPD5015/assignment-electron-leahcimzii#readme",
+  "dependencies": {
+    "electron": "^17.0.1",
+    "electron-progressbar": "^2.0.1",
+    "ffmpeg-static-electron": "^2.0.3",
+    "ffprobe-static-electron": "^2.0.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
