@@ -5,7 +5,8 @@ This is a video converter created using the electron library. It converts any vi
 
 * 1 "electron": "^17.0.1",
     - "electron-progressbar": "^2.0.1",
+    
+* 2 "fluent-ffmpeg": "^2.1.2"
     - "ffmpeg-static-electron": "^2.0.3",
     - "ffprobe-static-electron": "^2.0.2",
-* 2 "fluent-ffmpeg": "^2.1.2"
 
